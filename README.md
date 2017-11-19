@@ -1,2 +1,2 @@
 # AzureIoTStreamAnalytics
-A small :computer: project :minidisc: showcasing :floppy_disk: IoT :satellite: endpoint :bar_chart: analytics :clipboard: using Microsoft Azure :cloud:
+A small project :computer: showcasing IoT :satellite: endpoint analytics :bar_chart: using Microsoft Azure :cloud:
