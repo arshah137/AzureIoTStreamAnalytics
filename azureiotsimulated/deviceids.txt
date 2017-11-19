@@ -1,0 +1,2 @@
+Device ID: myFirstNodeDevice
+Device key: 0Gu3bijc/zLYKWae/rINMpmLBWJ/0evmQUbIr4f8/xg=
