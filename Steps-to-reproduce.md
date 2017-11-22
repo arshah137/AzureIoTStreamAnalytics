@@ -97,6 +97,8 @@ node SimulatedDevice.js
 node ReadDeviceToCloudMessages.js
 ```
 
+- **``Test Run``**
+
 ![](images/28.png)
 
 - **``Stream Analytics``**
@@ -112,6 +114,8 @@ node ReadDeviceToCloudMessages.js
 ![](images/33.png)
 
 ![](images/34.png)
+
+- **``Storage Creation``**
 
 ![](images/35.png)
 
@@ -152,13 +156,13 @@ FROM
 
 ![](images/49.png)
 
+- ``Demo``
+
 ![](images/50.png)
 
 ![](images/51.png)
 
 ![](images/52.png)
-
-- ``Demo``
 
 ![](images/53.png)
 
