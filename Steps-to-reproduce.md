@@ -1,5 +1,7 @@
 #### Steps to reproduce
 
+- Setup **``IoT Hub``**
+
 ![](images/1.png)
 
 ![](images/2.png)
@@ -13,6 +15,8 @@
 ![](images/6.png)
 
 ![](images/7.png)
+
+- Setup **``local developer``** environment
 
 ```sh
 sudo apt-get install nodejs npm
@@ -29,6 +33,8 @@ npm -v
 ![](images/11.png)
 
 ![](images/12.png)
+
+- **``Creating device``**
 
 ![](images/13.png)
 
@@ -48,6 +54,8 @@ node CreateDeviceIdentity.js
 
 ![](images/18.png)
 
+- **``Read IoT device logs``**
+
 ![](images/19.png)
 
 ```sh
@@ -60,6 +68,8 @@ npm install azure-event-hubs --save
 ![](images/21.png)
 
 ![](images/22.png)
+
+- **``Simulate IoT device``**
 
 ![](images/23.png)
 
@@ -74,6 +84,8 @@ npm install azure-iot-device azure-iot-device-mqtt
 
 ![](images/26.png)
 
+- **``Project stricture``**
+
 ```sh
 tree -L 2
 ```
@@ -86,6 +98,8 @@ node ReadDeviceToCloudMessages.js
 ```
 
 ![](images/28.png)
+
+- **``Stream Analytics``**
 
 ![](images/29.png)
 
@@ -143,6 +157,8 @@ FROM
 ![](images/51.png)
 
 ![](images/52.png)
+
+- ``Demo``
 
 ![](images/53.png)
 
